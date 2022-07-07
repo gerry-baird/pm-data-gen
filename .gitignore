@@ -4,6 +4,7 @@
 # project stuff
 task_list.csv
 data-gen.log
+pm_tasks.csv
 
 
 # Pycharm
