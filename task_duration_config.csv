@@ -1,0 +1,7 @@
+Task,Avg,Max
+New Client Onboarding Request,0.5,1.5 
+Review Documents,0.25,2.5
+Automated Scoreboarding,0.1,0.15
+Manual Scoreboarding,1,3
+Update Backend Systems,0.25,0.5
+Notification Review Request Completed,0.1,0.15

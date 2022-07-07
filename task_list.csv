@@ -1,0 +1,311 @@
+task_id,task_name,start
+1,New Client Onboarding Request,2022-06-08 18:00:00+00:00
+1,Review Documents,2022-06-08 18:25:59.997687+00:00
+1,Automated Scoreboarding,2022-06-08 19:08:52.188957+00:00
+1,Manual Scoreboarding,2022-06-08 19:15:46.821317+00:00
+1,Update Backend Systems,2022-06-08 20:07:06.591380+00:00
+1,Notification Review Request Completed,2022-06-08 20:16:48.774196+00:00
+2,New Client Onboarding Request,2022-06-09 18:00:00+00:00
+2,Review Documents,2022-06-09 18:39:41.553434+00:00
+2,Automated Scoreboarding,2022-06-09 18:45:36.485599+00:00
+2,Manual Scoreboarding,2022-06-09 18:52:13.101866+00:00
+2,Update Backend Systems,2022-06-09 19:48:26.265545+00:00
+2,Notification Review Request Completed,2022-06-09 19:56:07.971407+00:00
+3,New Client Onboarding Request,2022-06-10 18:00:00+00:00
+3,Review Documents,2022-06-10 18:52:22.978484+00:00
+3,Automated Scoreboarding,2022-06-10 18:58:24.004300+00:00
+3,Manual Scoreboarding,2022-06-10 19:12:46.753933+00:00
+3,Update Backend Systems,2022-06-10 20:25:47.129541+00:00
+3,Notification Review Request Completed,2022-06-10 20:36:35.389336+00:00
+4,New Client Onboarding Request,2022-06-11 18:00:00+00:00
+4,Review Documents,2022-06-11 18:19:29.962150+00:00
+4,Automated Scoreboarding,2022-06-11 19:23:38.210877+00:00
+4,Manual Scoreboarding,2022-06-11 19:30:15.971054+00:00
+4,Update Backend Systems,2022-06-11 20:27:04.044984+00:00
+4,Notification Review Request Completed,2022-06-11 20:36:24.642107+00:00
+5,New Client Onboarding Request,2022-06-12 18:00:00+00:00
+5,Review Documents,2022-06-12 18:14:58.088053+00:00
+5,Automated Scoreboarding,2022-06-12 18:27:46.794493+00:00
+5,Manual Scoreboarding,2022-06-12 18:31:50.285900+00:00
+5,Update Backend Systems,2022-06-12 19:07:22.091796+00:00
+5,Notification Review Request Completed,2022-06-12 19:26:24.489452+00:00
+6,New Client Onboarding Request,2022-06-13 18:00:00+00:00
+6,Review Documents,2022-06-13 18:43:42.718407+00:00
+6,Automated Scoreboarding,2022-06-13 19:00:05.286270+00:00
+6,Manual Scoreboarding,2022-06-13 19:05:37.543150+00:00
+6,Update Backend Systems,2022-06-13 20:01:10.519829+00:00
+6,Notification Review Request Completed,2022-06-13 20:21:56.632693+00:00
+7,New Client Onboarding Request,2022-06-14 18:00:00+00:00
+7,Review Documents,2022-06-14 18:13:06.955753+00:00
+7,Automated Scoreboarding,2022-06-14 18:31:50.497796+00:00
+7,Manual Scoreboarding,2022-06-14 18:38:04.338920+00:00
+7,Update Backend Systems,2022-06-14 19:03:02.479858+00:00
+7,Notification Review Request Completed,2022-06-14 19:11:52.237236+00:00
+8,New Client Onboarding Request,2022-06-15 18:00:00+00:00
+8,Review Documents,2022-06-15 18:32:24.925968+00:00
+8,Automated Scoreboarding,2022-06-15 18:44:27.053166+00:00
+8,Manual Scoreboarding,2022-06-15 18:54:11.364849+00:00
+8,Update Backend Systems,2022-06-15 19:12:03.595027+00:00
+8,Notification Review Request Completed,2022-06-15 19:26:22.279820+00:00
+9,New Client Onboarding Request,2022-06-16 18:00:00+00:00
+9,Review Documents,2022-06-16 18:13:15.000649+00:00
+9,Automated Scoreboarding,2022-06-16 18:27:01.519069+00:00
+9,Manual Scoreboarding,2022-06-16 18:31:21.111721+00:00
+9,Update Backend Systems,2022-06-16 21:34:21.081080+00:00
+9,Notification Review Request Completed,2022-06-16 21:55:51.432229+00:00
+10,New Client Onboarding Request,2022-06-17 18:00:00+00:00
+10,Review Documents,2022-06-17 19:51:02.592155+00:00
+10,Automated Scoreboarding,2022-06-17 20:04:49.756670+00:00
+10,Manual Scoreboarding,2022-06-17 20:11:36.900113+00:00
+10,Update Backend Systems,2022-06-17 21:22:08.689319+00:00
+10,Notification Review Request Completed,2022-06-17 21:41:43.145501+00:00
+11,New Client Onboarding Request,2022-06-18 18:00:00+00:00
+11,Review Documents,2022-06-18 18:37:07.364264+00:00
+11,Automated Scoreboarding,2022-06-18 18:58:08.974104+00:00
+11,Update Backend Systems,2022-06-18 19:02:20.200308+00:00
+11,Notification Review Request Completed,2022-06-18 19:08:54.202216+00:00
+12,New Client Onboarding Request,2022-06-19 18:00:00+00:00
+12,Review Documents,2022-06-19 18:12:36.188488+00:00
+12,Automated Scoreboarding,2022-06-19 18:16:36.812231+00:00
+12,Update Backend Systems,2022-06-19 18:22:29.661516+00:00
+12,Notification Review Request Completed,2022-06-19 18:28:31.748768+00:00
+13,New Client Onboarding Request,2022-06-20 18:00:00+00:00
+13,Review Documents,2022-06-20 18:22:17.757718+00:00
+13,Automated Scoreboarding,2022-06-20 18:39:17.481356+00:00
+13,Update Backend Systems,2022-06-20 18:43:48.294763+00:00
+13,Notification Review Request Completed,2022-06-20 18:55:06.984367+00:00
+14,New Client Onboarding Request,2022-06-21 18:00:00+00:00
+14,Review Documents,2022-06-21 18:14:46.730168+00:00
+14,Automated Scoreboarding,2022-06-21 18:24:08.372093+00:00
+14,Update Backend Systems,2022-06-21 18:28:37.588518+00:00
+14,Notification Review Request Completed,2022-06-21 18:32:34.140023+00:00
+15,New Client Onboarding Request,2022-06-22 18:00:00+00:00
+15,Review Documents,2022-06-22 18:38:52.884818+00:00
+15,Automated Scoreboarding,2022-06-22 18:46:08.558353+00:00
+15,Update Backend Systems,2022-06-22 18:50:21.336907+00:00
+15,Notification Review Request Completed,2022-06-22 19:24:51.078055+00:00
+16,New Client Onboarding Request,2022-06-23 18:00:00+00:00
+16,Review Documents,2022-06-23 18:18:44.202231+00:00
+16,Automated Scoreboarding,2022-06-23 18:23:24.104877+00:00
+16,Update Backend Systems,2022-06-23 18:30:48.805242+00:00
+16,Notification Review Request Completed,2022-06-23 18:46:20.835372+00:00
+17,New Client Onboarding Request,2022-06-24 18:00:00+00:00
+17,Review Documents,2022-06-24 18:36:26.045939+00:00
+17,Automated Scoreboarding,2022-06-24 19:37:46.294262+00:00
+17,Update Backend Systems,2022-06-24 19:43:16.288192+00:00
+17,Notification Review Request Completed,2022-06-24 19:57:43.490743+00:00
+18,New Client Onboarding Request,2022-06-25 18:00:00+00:00
+18,Review Documents,2022-06-25 18:20:06.694479+00:00
+18,Automated Scoreboarding,2022-06-25 18:50:46.500623+00:00
+18,Update Backend Systems,2022-06-25 18:56:14.679491+00:00
+18,Notification Review Request Completed,2022-06-25 19:05:38.361857+00:00
+19,New Client Onboarding Request,2022-06-26 18:00:00+00:00
+19,Review Documents,2022-06-26 18:22:03.713716+00:00
+19,Automated Scoreboarding,2022-06-26 19:04:15.829402+00:00
+19,Update Backend Systems,2022-06-26 19:12:29.467552+00:00
+19,Notification Review Request Completed,2022-06-26 19:35:44.858177+00:00
+20,New Client Onboarding Request,2022-06-27 18:00:00+00:00
+20,Review Documents,2022-06-27 18:18:10.167848+00:00
+20,Automated Scoreboarding,2022-06-27 18:40:29.713951+00:00
+20,Update Backend Systems,2022-06-27 18:44:52.042166+00:00
+20,Notification Review Request Completed,2022-06-27 18:53:26.307097+00:00
+21,New Client Onboarding Request,2022-06-28 18:00:00+00:00
+21,Review Documents,2022-06-28 20:27:17.773202+00:00
+21,Automated Scoreboarding,2022-06-28 20:45:22.886328+00:00
+21,Update Backend Systems,2022-06-28 20:50:03.432085+00:00
+21,Notification Review Request Completed,2022-06-28 20:59:15.309645+00:00
+22,New Client Onboarding Request,2022-06-29 18:00:00+00:00
+22,Review Documents,2022-06-29 18:07:30.213216+00:00
+22,Automated Scoreboarding,2022-06-29 18:55:44.967892+00:00
+22,Update Backend Systems,2022-06-29 18:58:40.376265+00:00
+22,Notification Review Request Completed,2022-06-29 19:15:14.479993+00:00
+23,New Client Onboarding Request,2022-06-30 18:00:00+00:00
+23,Review Documents,2022-06-30 18:42:24.665715+00:00
+23,Automated Scoreboarding,2022-06-30 18:49:20.414796+00:00
+23,Update Backend Systems,2022-06-30 18:56:08.406772+00:00
+23,Notification Review Request Completed,2022-06-30 19:12:02.499745+00:00
+24,New Client Onboarding Request,2022-07-01 18:00:00+00:00
+24,Review Documents,2022-07-01 18:16:49.218210+00:00
+24,Automated Scoreboarding,2022-07-01 18:36:06.315427+00:00
+24,Update Backend Systems,2022-07-01 18:41:18.131096+00:00
+24,Notification Review Request Completed,2022-07-01 18:51:10.724491+00:00
+25,New Client Onboarding Request,2022-07-02 18:00:00+00:00
+25,Review Documents,2022-07-02 18:22:16.620112+00:00
+25,Automated Scoreboarding,2022-07-02 18:45:08.307535+00:00
+25,Update Backend Systems,2022-07-02 18:49:47.540720+00:00
+25,Notification Review Request Completed,2022-07-02 19:06:17.371691+00:00
+26,New Client Onboarding Request,2022-07-03 18:00:00+00:00
+26,Review Documents,2022-07-03 19:04:55.526026+00:00
+26,Automated Scoreboarding,2022-07-03 19:19:54.764429+00:00
+26,Update Backend Systems,2022-07-03 19:26:15.475921+00:00
+26,Notification Review Request Completed,2022-07-03 19:44:42.109234+00:00
+27,New Client Onboarding Request,2022-07-04 18:00:00+00:00
+27,Review Documents,2022-07-04 18:53:17.564817+00:00
+27,Automated Scoreboarding,2022-07-04 20:03:34.302364+00:00
+27,Update Backend Systems,2022-07-04 20:11:26.067221+00:00
+27,Notification Review Request Completed,2022-07-04 20:20:07.964048+00:00
+28,New Client Onboarding Request,2022-07-05 18:00:00+00:00
+28,Review Documents,2022-07-05 19:07:27.485281+00:00
+28,Automated Scoreboarding,2022-07-05 19:13:36.873500+00:00
+28,Update Backend Systems,2022-07-05 19:20:11.250608+00:00
+28,Notification Review Request Completed,2022-07-05 19:30:26.531279+00:00
+29,New Client Onboarding Request,2022-07-06 18:00:00+00:00
+29,Review Documents,2022-07-06 18:19:03.286131+00:00
+29,Automated Scoreboarding,2022-07-06 18:27:18.831819+00:00
+29,Update Backend Systems,2022-07-06 18:30:59.457521+00:00
+29,Notification Review Request Completed,2022-07-06 18:44:52.941283+00:00
+30,New Client Onboarding Request,2022-07-07 18:00:00+00:00
+30,Review Documents,2022-07-07 18:17:31.294275+00:00
+30,Automated Scoreboarding,2022-07-07 18:25:08.934602+00:00
+30,Update Backend Systems,2022-07-07 18:30:17.044577+00:00
+30,Notification Review Request Completed,2022-07-07 18:38:17.258127+00:00
+31,New Client Onboarding Request,2022-07-08 18:00:00+00:00
+31,Review Documents,2022-07-08 18:35:13.025376+00:00
+31,Automated Scoreboarding,2022-07-08 19:29:06.090305+00:00
+31,Update Backend Systems,2022-07-08 19:32:44.988296+00:00
+31,Notification Review Request Completed,2022-07-08 20:01:15.211054+00:00
+32,New Client Onboarding Request,2022-07-09 18:00:00+00:00
+32,Review Documents,2022-07-09 18:17:38.879491+00:00
+32,Automated Scoreboarding,2022-07-09 18:24:55.640796+00:00
+32,Update Backend Systems,2022-07-09 18:33:47.173373+00:00
+32,Notification Review Request Completed,2022-07-09 18:59:20.112881+00:00
+33,New Client Onboarding Request,2022-07-10 18:00:00+00:00
+33,Review Documents,2022-07-10 18:32:38.300837+00:00
+33,Automated Scoreboarding,2022-07-10 18:43:35.067920+00:00
+33,Update Backend Systems,2022-07-10 18:52:31.848071+00:00
+33,Notification Review Request Completed,2022-07-10 19:11:21.918398+00:00
+34,New Client Onboarding Request,2022-07-11 18:00:00+00:00
+34,Review Documents,2022-07-11 18:43:00.449937+00:00
+34,Automated Scoreboarding,2022-07-11 19:25:16.562268+00:00
+34,Update Backend Systems,2022-07-11 19:30:24.920217+00:00
+34,Notification Review Request Completed,2022-07-11 19:45:43.063922+00:00
+35,New Client Onboarding Request,2022-07-12 18:00:00+00:00
+35,Review Documents,2022-07-12 18:29:44.701514+00:00
+35,Automated Scoreboarding,2022-07-12 19:01:02.676128+00:00
+35,Update Backend Systems,2022-07-12 19:09:24.567242+00:00
+35,Notification Review Request Completed,2022-07-12 19:12:33.676885+00:00
+36,New Client Onboarding Request,2022-07-13 18:00:00+00:00
+36,Review Documents,2022-07-13 18:28:15.587195+00:00
+36,Automated Scoreboarding,2022-07-13 18:52:20.870458+00:00
+36,Update Backend Systems,2022-07-13 18:59:59.629323+00:00
+36,Notification Review Request Completed,2022-07-13 19:09:02.880563+00:00
+37,New Client Onboarding Request,2022-07-14 18:00:00+00:00
+37,Review Documents,2022-07-14 19:22:01.574963+00:00
+37,Automated Scoreboarding,2022-07-14 19:40:40.742939+00:00
+37,Update Backend Systems,2022-07-14 19:45:08.361164+00:00
+37,Notification Review Request Completed,2022-07-14 19:54:28.961051+00:00
+38,New Client Onboarding Request,2022-07-15 18:00:00+00:00
+38,Review Documents,2022-07-15 18:58:56.449289+00:00
+38,Automated Scoreboarding,2022-07-15 19:30:30.028775+00:00
+38,Update Backend Systems,2022-07-15 19:38:36.520317+00:00
+38,Notification Review Request Completed,2022-07-15 20:04:03.427394+00:00
+39,New Client Onboarding Request,2022-07-16 18:00:00+00:00
+39,Review Documents,2022-07-16 18:51:30.697070+00:00
+39,Automated Scoreboarding,2022-07-16 19:04:37.803440+00:00
+39,Update Backend Systems,2022-07-16 19:11:55.524938+00:00
+39,Notification Review Request Completed,2022-07-16 19:30:28.679286+00:00
+40,New Client Onboarding Request,2022-07-17 18:00:00+00:00
+40,Review Documents,2022-07-17 18:41:24.367884+00:00
+40,Automated Scoreboarding,2022-07-17 20:17:39.585686+00:00
+40,Update Backend Systems,2022-07-17 20:23:24.234738+00:00
+40,Notification Review Request Completed,2022-07-17 20:36:39.447505+00:00
+41,New Client Onboarding Request,2022-07-18 18:00:00+00:00
+41,Review Documents,2022-07-18 18:15:55.537242+00:00
+41,Automated Scoreboarding,2022-07-18 18:46:57.655849+00:00
+41,Update Backend Systems,2022-07-18 18:51:46.716297+00:00
+41,Notification Review Request Completed,2022-07-18 19:01:11.773740+00:00
+42,New Client Onboarding Request,2022-07-19 18:00:00+00:00
+42,Review Documents,2022-07-19 18:11:09.695542+00:00
+42,Automated Scoreboarding,2022-07-19 18:17:37.046219+00:00
+42,Update Backend Systems,2022-07-19 18:25:13.684462+00:00
+42,Notification Review Request Completed,2022-07-19 18:46:58.004902+00:00
+43,New Client Onboarding Request,2022-07-20 18:00:00+00:00
+43,Review Documents,2022-07-20 19:51:18.021901+00:00
+43,Automated Scoreboarding,2022-07-20 20:01:06.087789+00:00
+43,Update Backend Systems,2022-07-20 20:06:30.667967+00:00
+43,Notification Review Request Completed,2022-07-20 20:23:56.890978+00:00
+44,New Client Onboarding Request,2022-07-21 18:00:00+00:00
+44,Review Documents,2022-07-21 18:56:01.702494+00:00
+44,Automated Scoreboarding,2022-07-21 19:19:38.736373+00:00
+44,Update Backend Systems,2022-07-21 19:24:38.533615+00:00
+44,Notification Review Request Completed,2022-07-21 19:39:37.361155+00:00
+45,New Client Onboarding Request,2022-07-22 18:00:00+00:00
+45,Review Documents,2022-07-22 18:10:22.737337+00:00
+45,Automated Scoreboarding,2022-07-22 18:13:42.283088+00:00
+45,Update Backend Systems,2022-07-22 18:23:47.605142+00:00
+45,Notification Review Request Completed,2022-07-22 18:47:50.460867+00:00
+46,New Client Onboarding Request,2022-07-23 18:00:00+00:00
+46,Review Documents,2022-07-23 18:31:36.036810+00:00
+46,Automated Scoreboarding,2022-07-23 19:29:08.730144+00:00
+46,Update Backend Systems,2022-07-23 19:32:12.817055+00:00
+46,Notification Review Request Completed,2022-07-23 19:43:05.421961+00:00
+47,New Client Onboarding Request,2022-07-24 18:00:00+00:00
+47,Review Documents,2022-07-24 19:50:48.023461+00:00
+47,Automated Scoreboarding,2022-07-24 20:00:12.555532+00:00
+47,Update Backend Systems,2022-07-24 20:06:39.904661+00:00
+47,Notification Review Request Completed,2022-07-24 20:14:40.651817+00:00
+48,New Client Onboarding Request,2022-07-25 18:00:00+00:00
+48,Review Documents,2022-07-25 18:10:00.026000+00:00
+48,Automated Scoreboarding,2022-07-25 19:10:38.184605+00:00
+48,Update Backend Systems,2022-07-25 19:14:22.530498+00:00
+48,Notification Review Request Completed,2022-07-25 19:49:26.315798+00:00
+49,New Client Onboarding Request,2022-07-26 18:00:00+00:00
+49,Review Documents,2022-07-26 18:33:58.223507+00:00
+49,Automated Scoreboarding,2022-07-26 18:49:41.091764+00:00
+49,Update Backend Systems,2022-07-26 18:54:25.063843+00:00
+49,Notification Review Request Completed,2022-07-26 19:17:12.162496+00:00
+50,New Client Onboarding Request,2022-07-27 18:00:00+00:00
+50,Review Documents,2022-07-27 18:22:33.793903+00:00
+50,Automated Scoreboarding,2022-07-27 18:30:10.336728+00:00
+50,Update Backend Systems,2022-07-27 18:35:49.786480+00:00
+50,Notification Review Request Completed,2022-07-27 18:46:45.230697+00:00
+51,New Client Onboarding Request,2022-07-28 18:00:00+00:00
+51,Review Documents,2022-07-28 18:53:37.525247+00:00
+51,Automated Scoreboarding,2022-07-28 19:50:47.403170+00:00
+51,Update Backend Systems,2022-07-28 20:04:24.014523+00:00
+51,Notification Review Request Completed,2022-07-28 20:15:08.600471+00:00
+52,New Client Onboarding Request,2022-07-29 18:00:00+00:00
+52,Review Documents,2022-07-29 19:02:01.578269+00:00
+52,Automated Scoreboarding,2022-07-29 19:37:17.709571+00:00
+52,Update Backend Systems,2022-07-29 19:44:05.266967+00:00
+52,Notification Review Request Completed,2022-07-29 19:49:55.254490+00:00
+53,New Client Onboarding Request,2022-07-30 18:00:00+00:00
+53,Review Documents,2022-07-30 18:49:57.611849+00:00
+53,Automated Scoreboarding,2022-07-30 18:54:17.664435+00:00
+53,Update Backend Systems,2022-07-30 18:57:42.117400+00:00
+53,Notification Review Request Completed,2022-07-30 19:11:55.326207+00:00
+54,New Client Onboarding Request,2022-07-31 18:00:00+00:00
+54,Review Documents,2022-07-31 18:46:41.669057+00:00
+54,Automated Scoreboarding,2022-07-31 19:24:46.130080+00:00
+54,Update Backend Systems,2022-07-31 19:34:37.434574+00:00
+54,Notification Review Request Completed,2022-07-31 19:49:30.404854+00:00
+55,New Client Onboarding Request,2022-08-01 18:00:00+00:00
+55,Review Documents,2022-08-01 18:19:49.538736+00:00
+55,Automated Scoreboarding,2022-08-01 18:52:11.101709+00:00
+55,Update Backend Systems,2022-08-01 18:57:59.208288+00:00
+55,Notification Review Request Completed,2022-08-01 19:12:52.822421+00:00
+56,New Client Onboarding Request,2022-08-02 18:00:00+00:00
+56,Review Documents,2022-08-02 18:44:58.440771+00:00
+56,Automated Scoreboarding,2022-08-02 18:49:27.647457+00:00
+56,Update Backend Systems,2022-08-02 18:58:01.740419+00:00
+56,Notification Review Request Completed,2022-08-02 19:15:44.409994+00:00
+57,New Client Onboarding Request,2022-08-03 18:00:00+00:00
+57,Review Documents,2022-08-03 19:26:31.383256+00:00
+57,Automated Scoreboarding,2022-08-03 19:48:31.587431+00:00
+57,Update Backend Systems,2022-08-03 19:54:36.682512+00:00
+57,Notification Review Request Completed,2022-08-03 20:06:57.498186+00:00
+58,New Client Onboarding Request,2022-08-04 18:00:00+00:00
+58,Review Documents,2022-08-04 19:09:08.955307+00:00
+58,Automated Scoreboarding,2022-08-04 19:34:06.202091+00:00
+58,Update Backend Systems,2022-08-04 19:41:03.243815+00:00
+58,Notification Review Request Completed,2022-08-04 20:25:13.028601+00:00
+59,New Client Onboarding Request,2022-08-05 18:00:00+00:00
+59,Review Documents,2022-08-05 18:42:07.457915+00:00
+59,Automated Scoreboarding,2022-08-05 18:52:46.764401+00:00
+59,Update Backend Systems,2022-08-05 18:56:29.980504+00:00
+59,Notification Review Request Completed,2022-08-05 19:03:47.408822+00:00
+60,New Client Onboarding Request,2022-08-06 18:00:00+00:00
+60,Review Documents,2022-08-06 19:03:04.907261+00:00
+60,Automated Scoreboarding,2022-08-06 19:05:20.677103+00:00
+60,Update Backend Systems,2022-08-06 19:08:42.594058+00:00
+60,Notification Review Request Completed,2022-08-06 19:21:14.680880+00:00
