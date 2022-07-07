@@ -11,7 +11,7 @@ import sys
 # Setup Logging
 logger = logging.getLogger(__name__)
 formatter = logging.Formatter('%(asctime)s %(levelname)-8s [%(filename)s:%(lineno)d] %(message)s')
-file_handler = logging.FileHandler('grump.log')
+file_handler = logging.FileHandler('data-gen.log')
 file_handler.setFormatter(formatter)
 logger.addHandler(file_handler)
 logger.setLevel(logging.DEBUG)

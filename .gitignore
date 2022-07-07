@@ -4,7 +4,7 @@
 # grump stuff
 config_private.yaml
 data_file.csv
-grump.log
+data-gen.log
 config_private_HS_ROKS.yaml
 config_CIQ.yaml
 
