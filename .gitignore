@@ -1,12 +1,10 @@
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
-# grump stuff
-config_private.yaml
-data_file.csv
+# project stuff
+task_list.csv
 data-gen.log
-config_private_HS_ROKS.yaml
-config_CIQ.yaml
+
 
 # Pycharm
 .idea/
