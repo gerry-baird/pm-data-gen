@@ -1,0 +1,88 @@
+process_id,task,start_time,user,industry,service_charge
+1,New Client Onboarding Request,28-11-2017 18:00:00,Francis,Federal,8000
+1,Review Documents,28-11-2017 18:20:59,Freddy,Federal,8000
+1,Automated Scoreboarding,28-11-2017 18:36:40,SYSTEM,Federal,8000
+1,Update Backend Systems,28-11-2017 18:40:15,RPA,Federal,8000
+1,Notification Review Request Completed,28-11-2017 19:03:30,SYSTEM,Federal,8000
+2,New Client Onboarding Request,29-11-2017 18:00:00,Francis,Insurance,45000
+2,Review Documents,29-11-2017 19:15:03,Rod,Insurance,45000
+2,Automated Scoreboarding,29-11-2017 19:24:39,SYSTEM,Insurance,45000
+2,Update Backend Systems,29-11-2017 19:30:25,RPA,Insurance,45000
+2,Notification Review Request Completed,29-11-2017 19:37:58,SYSTEM,Insurance,45000
+3,New Client Onboarding Request,30-11-2017 18:00:00,Francis,Insurance,45000
+3,Review Documents,30-11-2017 19:07:12,Rod,Insurance,45000
+3,Automated Scoreboarding,30-11-2017 19:11:41,SYSTEM,Insurance,45000
+3,Update Backend Systems,30-11-2017 19:15:40,RPA,Insurance,45000
+3,Notification Review Request Completed,30-11-2017 19:23:23,SYSTEM,Insurance,45000
+4,New Client Onboarding Request,01-12-2017 18:00:00,Clive,Healthcare,20000
+4,Review Documents,01-12-2017 18:18:56,Freddy,Healthcare,20000
+4,Automated Scoreboarding,01-12-2017 18:29:01,SYSTEM,Healthcare,20000
+4,Update Backend Systems,01-12-2017 18:33:48,RPA,Healthcare,20000
+4,Notification Review Request Completed,01-12-2017 18:57:34,SYSTEM,Healthcare,20000
+5,New Client Onboarding Request,02-12-2017 18:00:00,Tom,Healthcare,15000
+5,Review Documents,02-12-2017 18:11:06,Jane,Healthcare,15000
+5,Automated Scoreboarding,02-12-2017 19:12:41,SYSTEM,Healthcare,15000
+5,Update Backend Systems,02-12-2017 19:16:12,RPA,Healthcare,15000
+5,Notification Review Request Completed,02-12-2017 19:26:57,SYSTEM,Healthcare,15000
+6,New Client Onboarding Request,03-12-2017 18:00:00,Seb,Finance,20000
+6,Review Documents,03-12-2017 18:25:12,Jane,Finance,20000
+6,Automated Scoreboarding,03-12-2017 18:48:34,SYSTEM,Finance,20000
+6,Update Backend Systems,03-12-2017 18:55:33,RPA,Finance,20000
+6,Notification Review Request Completed,03-12-2017 19:02:51,SYSTEM,Finance,20000
+7,New Client Onboarding Request,04-12-2017 18:00:00,Tom,Insurance,45000
+7,Review Documents,04-12-2017 18:33:32,Jane,Insurance,45000
+7,Automated Scoreboarding,04-12-2017 18:38:27,SYSTEM,Insurance,45000
+7,Update Backend Systems,04-12-2017 18:42:00,RPA,Insurance,45000
+7,Notification Review Request Completed,04-12-2017 19:16:08,SYSTEM,Insurance,45000
+8,New Client Onboarding Request,05-12-2017 18:00:00,Tom,Insurance,45000
+8,Review Documents,05-12-2017 18:22:52,Jane,Insurance,45000
+8,Automated Scoreboarding,05-12-2017 18:54:58,SYSTEM,Insurance,45000
+8,Update Backend Systems,05-12-2017 19:01:17,RPA,Insurance,45000
+8,Notification Review Request Completed,05-12-2017 19:15:55,SYSTEM,Insurance,45000
+9,New Client Onboarding Request,06-12-2017 18:00:00,Clive,Healthcare,25000
+9,Review Documents,06-12-2017 19:23:00,Rod,Healthcare,25000
+9,Automated Scoreboarding,06-12-2017 19:26:32,SYSTEM,Healthcare,25000
+9,Update Backend Systems,06-12-2017 19:30:53,RPA,Healthcare,25000
+9,Notification Review Request Completed,06-12-2017 19:57:57,SYSTEM,Healthcare,25000
+10,New Client Onboarding Request,07-12-2017 18:00:00,Tom,Insurance,45000
+10,Review Documents,07-12-2017 18:25:07,Jane,Insurance,45000
+10,Automated Scoreboarding,07-12-2017 18:39:59,SYSTEM,Insurance,45000
+10,Update Backend Systems,07-12-2017 18:44:57,RPA,Insurance,45000
+10,Notification Review Request Completed,07-12-2017 18:52:59,SYSTEM,Insurance,45000
+11,New Client Onboarding Request,09-12-2017 18:00:00,Tom,Federal,3000
+11,Review Documents,09-12-2017 19:17:36,Rod,Federal,3000
+11,Automated Scoreboarding,09-12-2017 19:51:14,SYSTEM,Federal,3000
+11,Manual Scoreboarding,09-12-2017 19:55:39,Susan,Federal,3000
+11,Update Backend Systems,09-12-2017 20:30:15,RPA,Federal,3000
+11,Notification Review Request Completed,09-12-2017 20:42:03,SYSTEM,Federal,3000
+12,New Client Onboarding Request,10-12-2017 18:00:00,Francis,Finance,12000
+12,Review Documents,10-12-2017 18:31:51,Jane,Finance,12000
+12,Automated Scoreboarding,10-12-2017 19:12:36,SYSTEM,Finance,12000
+12,Manual Scoreboarding,10-12-2017 19:21:01,Sam,Finance,12000
+12,Update Backend Systems,10-12-2017 21:47:58,RPA,Finance,12000
+12,Notification Review Request Completed,10-12-2017 22:11:21,SYSTEM,Finance,12000
+13,New Client Onboarding Request,11-12-2017 18:00:00,Francis,Insurance,45000
+13,Review Documents,11-12-2017 18:13:17,Jane,Insurance,45000
+13,Automated Scoreboarding,11-12-2017 18:18:05,SYSTEM,Insurance,45000
+13,Manual Scoreboarding,11-12-2017 18:24:04,Sam,Insurance,45000
+13,Update Backend Systems,11-12-2017 19:37:05,RPA,Insurance,45000
+13,Notification Review Request Completed,11-12-2017 19:53:52,SYSTEM,Insurance,45000
+14,New Client Onboarding Request,12-12-2017 18:00:00,Seb,Finance,12000
+14,Review Documents,12-12-2017 19:19:34,Rod,Finance,12000
+14,Automated Scoreboarding,12-12-2017 19:30:02,SYSTEM,Finance,12000
+14,Manual Scoreboarding,12-12-2017 19:39:22,Sam,Finance,12000
+14,Update Backend Systems,12-12-2017 20:07:56,RPA,Finance,12000
+14,Notification Review Request Completed,12-12-2017 20:13:20,SYSTEM,Finance,12000
+15,New Client Onboarding Request,13-12-2017 18:00:00,Francis,Finance,20000
+15,Review Documents,13-12-2017 20:10:29,Rod,Finance,20000
+15,Automated Scoreboarding,13-12-2017 20:36:15,SYSTEM,Finance,20000
+15,Manual Scoreboarding,13-12-2017 20:42:39,Sam,Finance,20000
+15,Update Backend Systems,13-12-2017 21:41:26,RPA,Finance,20000
+15,Notification Review Request Completed,13-12-2017 22:02:32,SYSTEM,Finance,20000
+16,New Client Onboarding Request,15-12-2017 18:00:00,Nick,Insurance,45000
+16,Review Documents,15-12-2017 18:18:01,Jane,Insurance,45000
+16,Automated Scoreboarding,15-12-2017 18:37:09,SYSTEM,Insurance,45000
+16,Manual Scoreboarding,15-12-2017 18:42:36,Sharon,Insurance,45000
+16,Review Documents,15-12-2017 19:52:32,Jane,Insurance,45000
+16,Update Backend Systems,15-12-2017 20:01:24,RPA,Insurance,45000
+16,Notification Review Request Completed,15-12-2017 20:30:26,SYSTEM,Insurance,45000
