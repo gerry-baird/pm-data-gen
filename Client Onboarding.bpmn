@@ -1,57 +1,75 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<definitions xmlns="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:ns2="http://www.ibm.com/bpm/Extensions" xmlns:ns3="http://www.ibm.com/xmlns/prod/bpm/bpmn/ext/process" xmlns:ns4="http://www.omg.org/spec/DD/20100524/DI" xmlns:ns5="http://www.omg.org/spec/DD/20100524/DC" xmlns:ns6="http://www.omg.org/spec/BPMN/20100524/DI" id="bpmn-d2b0ec74-6cc5-44eb-a525-b973427356c6" targetNamespace="http://www.ibm.com/WebSphere/bpm/BlueworksLive/d2ecdd3b4e-cedc4582c" exporter="http://www.ibm.com/WebSphere/bpm/BlueworksLive" exporterVersion="2.0" xmlns:bwl0="http://www.ibm.com/WebSphere/bpm/BlueworksLive/Glossaries" xmlns:res="http://www.ibm.com/WebSphere/bpm/BlueworksLive/Resources" xmlns:tns="http://www.ibm.com/WebSphere/bpm/BlueworksLive/d2ecdd3b4e-cedc4582c" xmlns:io="IBM_SWG_AIM_Rules01">
+<definitions xmlns="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:ns2="http://www.ibm.com/bpm/Extensions" xmlns:ns3="http://www.ibm.com/xmlns/prod/bpm/bpmn/ext/process" xmlns:ns4="http://www.omg.org/spec/DD/20100524/DI" xmlns:ns5="http://www.omg.org/spec/DD/20100524/DC" xmlns:ns6="http://www.omg.org/spec/BPMN/20100524/DI" id="bpmn-49343d8a-fc86-48c2-b905-5f2102a917ee" targetNamespace="http://www.ibm.com/WebSphere/bpm/BlueworksLive/d2ecdd3b4e-cedc4582c" exporter="http://www.ibm.com/WebSphere/bpm/BlueworksLive" exporterVersion="2.0" xmlns:bwl0="http://www.ibm.com/WebSphere/bpm/BlueworksLive/Glossaries" xmlns:res="http://www.ibm.com/WebSphere/bpm/BlueworksLive/Resources" xmlns:tns="http://www.ibm.com/WebSphere/bpm/BlueworksLive/d2ecdd3b4e-cedc4582c" xmlns:io="IBM_SWG_AIM_Rules01">
     <import namespace="http://www.ibm.com/WebSphere/bpm/BlueworksLive/Glossaries" location="../Glossaries.bpmn" importType="http://www.omg.org/spec/BPMN/20100524/MODEL"/>
     <import namespace="http://www.ibm.com/WebSphere/bpm/BlueworksLive/Resources" location="../Resources.bpmn" importType="http://www.omg.org/spec/BPMN/20100524/MODEL"/>
     <import namespace="IBM_SWG_AIM_Rules01" location="../InputOutput.xsd" importType="http://www.w3.org/2001/XMLSchema"/>
-    <process processType="Private" isExecutable="false" name="Client Onboarding" id="bpmn-388703f3-b197-4c63-bda3-e4268fd42b74">
+    <process processType="Private" isExecutable="false" name="Client Onboarding" id="bpmn-afc25f54-144d-4f11-ad6b-f2ba551060a4">
         <extensionElements>
             <ns2:bpmAttributes>
-                <ns2:milestones id="bpmn-0ced93b3-bf60-4701-8712-548e66d4eb3f">
-                    <ns2:milestone name="Milestone 1" id="bpmn-1ce441c8-1e9a-4b7f-a2de-2313cc90e1c8">
-                        <flowNodeRef>bpmn-75b05b0e-a76e-445e-b436-2330efe81750</flowNodeRef>
-                        <flowNodeRef>bpmn-de385f99-a352-468e-9c1d-2bf3d13c1310</flowNodeRef>
-                        <flowNodeRef>bpmn-7c360b62-c2dd-4ff4-a5bc-76c1dae4e59b</flowNodeRef>
-                        <flowNodeRef>bpmn-c25afc49-0efe-4d39-9975-cd97ba75d709</flowNodeRef>
-                        <flowNodeRef>bpmn-b1a391f7-9a8b-4e09-b8bf-76aabff13400</flowNodeRef>
-                        <flowNodeRef>bpmn-2ceb022e-32b9-4d1b-8024-37e7b7b39f11</flowNodeRef>
-                        <flowNodeRef>bpmn-c85bf7c3-9105-4762-a46e-0399c5713613</flowNodeRef>
-                        <flowNodeRef>bpmn-516a8edd-b531-410a-9ba1-b6870f9c1301</flowNodeRef>
-                        <flowNodeRef>bpmn-3c876a13-e6fe-43ae-93a1-043c8c115832</flowNodeRef>
+                <ns2:milestones id="bpmn-c42aec53-63a2-424a-83cd-88b3665aea56">
+                    <ns2:milestone name="Milestone 1" id="bpmn-de383244-079d-45b9-8ff4-f421b8b99c41">
+                        <flowNodeRef>bpmn-91044847-689b-49b0-808f-b8b42129f455</flowNodeRef>
+                        <flowNodeRef>bpmn-c22580ba-e48d-4c1c-b78a-de24b35290eb</flowNodeRef>
+                        <flowNodeRef>bpmn-7c601c2e-4992-4bb4-b000-a390191964b0</flowNodeRef>
+                        <flowNodeRef>bpmn-d1a5a4db-f1a3-4c5b-bffe-307d2dc13547</flowNodeRef>
+                        <flowNodeRef>bpmn-e6ff2ec6-c03b-4009-a662-5b4e939d22f9</flowNodeRef>
+                        <flowNodeRef>bpmn-a9e68b29-e0ff-460f-ba14-0ef34f8c1926</flowNodeRef>
+                        <flowNodeRef>bpmn-8c238ba3-c554-41aa-aabe-45b0150974d3</flowNodeRef>
+                        <flowNodeRef>bpmn-ab7d0277-a288-4078-b464-a1d2efa5d30a</flowNodeRef>
+                        <flowNodeRef>bpmn-c7f459b7-1c1c-422a-b05a-a7dd788b60df</flowNodeRef>
                     </ns2:milestone>
                 </ns2:milestones>
                 <ns2:properties/>
             </ns2:bpmAttributes>
         </extensionElements>
-        <laneSet id="bpmn-8fe6da72-b37c-491c-b127-73764d380bb3"/>
-        <sequenceFlow sourceRef="bpmn-75b05b0e-a76e-445e-b436-2330efe81750" targetRef="bpmn-de385f99-a352-468e-9c1d-2bf3d13c1310" id="bpmn-81a99730-719f-40f9-a4c0-7ae1bc692702"/>
-        <sequenceFlow sourceRef="bpmn-de385f99-a352-468e-9c1d-2bf3d13c1310" targetRef="bpmn-7c360b62-c2dd-4ff4-a5bc-76c1dae4e59b" id="bpmn-b61010ac-a28c-4bf7-936d-5d6c0bd185bb"/>
-        <sequenceFlow sourceRef="bpmn-7c360b62-c2dd-4ff4-a5bc-76c1dae4e59b" targetRef="bpmn-c25afc49-0efe-4d39-9975-cd97ba75d709" id="bpmn-22c225fb-17bb-4f25-abc6-4297332ad6d7"/>
-        <sequenceFlow sourceRef="bpmn-c25afc49-0efe-4d39-9975-cd97ba75d709" targetRef="bpmn-b1a391f7-9a8b-4e09-b8bf-76aabff13400" id="bpmn-1895525c-f4bd-4c90-914b-a149842eae61"/>
-        <sequenceFlow sourceRef="bpmn-b1a391f7-9a8b-4e09-b8bf-76aabff13400" targetRef="bpmn-2ceb022e-32b9-4d1b-8024-37e7b7b39f11" name="Yes" id="bpmn-9044e76e-ab0f-4282-bf87-228f2c4941d4"/>
-        <sequenceFlow sourceRef="bpmn-b1a391f7-9a8b-4e09-b8bf-76aabff13400" targetRef="bpmn-c85bf7c3-9105-4762-a46e-0399c5713613" id="bpmn-465b5481-fca2-40fc-ab3d-1115657bc706"/>
-        <sequenceFlow sourceRef="bpmn-c85bf7c3-9105-4762-a46e-0399c5713613" targetRef="bpmn-516a8edd-b531-410a-9ba1-b6870f9c1301" id="bpmn-f7cab537-246f-4367-aa01-e1168f4aa087"/>
-        <sequenceFlow sourceRef="bpmn-516a8edd-b531-410a-9ba1-b6870f9c1301" targetRef="bpmn-3c876a13-e6fe-43ae-93a1-043c8c115832" id="bpmn-bcd2e26e-aee9-4d31-b7f2-20dae01611d4"/>
-        <sequenceFlow sourceRef="bpmn-2ceb022e-32b9-4d1b-8024-37e7b7b39f11" targetRef="bpmn-c85bf7c3-9105-4762-a46e-0399c5713613" id="bpmn-0d0cf188-ab5c-4e5c-b34f-8d6a5e534e3c"/>
-        <startEvent name="Start" id="bpmn-75b05b0e-a76e-445e-b436-2330efe81750"/>
-        <task name="New Client Onboarding Request" id="bpmn-de385f99-a352-468e-9c1d-2bf3d13c1310">
+        <laneSet id="bpmn-48c4a80a-a3ef-4293-896c-cc1c7e2f5612">
+            <lane name="Sales" id="bpmn-7f0deb79-ea36-4a1b-8640-73f930d5649d">
+                <flowNodeRef>bpmn-91044847-689b-49b0-808f-b8b42129f455</flowNodeRef>
+                <flowNodeRef>bpmn-c22580ba-e48d-4c1c-b78a-de24b35290eb</flowNodeRef>
+            </lane>
+            <lane name="Operations" id="bpmn-224e478c-bf1d-4b60-9ece-4e7dac1ead49">
+                <flowNodeRef>bpmn-7c601c2e-4992-4bb4-b000-a390191964b0</flowNodeRef>
+            </lane>
+            <lane name="Risk" id="bpmn-3eee2a1e-42b4-45cc-af2c-b43161fe5b97">
+                <flowNodeRef>bpmn-a9e68b29-e0ff-460f-ba14-0ef34f8c1926</flowNodeRef>
+            </lane>
+            <lane name="System" id="bpmn-285427e8-f2a0-45f0-b6b7-6571802280c8">
+                <flowNodeRef>bpmn-d1a5a4db-f1a3-4c5b-bffe-307d2dc13547</flowNodeRef>
+                <flowNodeRef>bpmn-e6ff2ec6-c03b-4009-a662-5b4e939d22f9</flowNodeRef>
+                <flowNodeRef>bpmn-8c238ba3-c554-41aa-aabe-45b0150974d3</flowNodeRef>
+                <flowNodeRef>bpmn-ab7d0277-a288-4078-b464-a1d2efa5d30a</flowNodeRef>
+                <flowNodeRef>bpmn-c7f459b7-1c1c-422a-b05a-a7dd788b60df</flowNodeRef>
+            </lane>
+        </laneSet>
+        <sequenceFlow sourceRef="bpmn-91044847-689b-49b0-808f-b8b42129f455" targetRef="bpmn-c22580ba-e48d-4c1c-b78a-de24b35290eb" id="bpmn-d4bac107-4e2e-41ca-ac67-ed0fc2f24926"/>
+        <sequenceFlow sourceRef="bpmn-c22580ba-e48d-4c1c-b78a-de24b35290eb" targetRef="bpmn-7c601c2e-4992-4bb4-b000-a390191964b0" id="bpmn-22983f84-b121-43b0-ba35-4aeff0a65079"/>
+        <sequenceFlow sourceRef="bpmn-7c601c2e-4992-4bb4-b000-a390191964b0" targetRef="bpmn-d1a5a4db-f1a3-4c5b-bffe-307d2dc13547" id="bpmn-da598e6d-58cd-406e-90f2-48c8f36b618b"/>
+        <sequenceFlow sourceRef="bpmn-d1a5a4db-f1a3-4c5b-bffe-307d2dc13547" targetRef="bpmn-e6ff2ec6-c03b-4009-a662-5b4e939d22f9" id="bpmn-3b1be76a-6f21-45b8-8c21-e5566c6abaeb"/>
+        <sequenceFlow sourceRef="bpmn-e6ff2ec6-c03b-4009-a662-5b4e939d22f9" targetRef="bpmn-a9e68b29-e0ff-460f-ba14-0ef34f8c1926" name="Yes" id="bpmn-a1bfd6a9-6724-48fb-ab15-50eec08311ed"/>
+        <sequenceFlow sourceRef="bpmn-e6ff2ec6-c03b-4009-a662-5b4e939d22f9" targetRef="bpmn-8c238ba3-c554-41aa-aabe-45b0150974d3" id="bpmn-aeaac2bc-62da-435e-9bea-1fc497394a66"/>
+        <sequenceFlow sourceRef="bpmn-8c238ba3-c554-41aa-aabe-45b0150974d3" targetRef="bpmn-ab7d0277-a288-4078-b464-a1d2efa5d30a" id="bpmn-4803b68b-742c-454b-8502-39206391a95b"/>
+        <sequenceFlow sourceRef="bpmn-ab7d0277-a288-4078-b464-a1d2efa5d30a" targetRef="bpmn-c7f459b7-1c1c-422a-b05a-a7dd788b60df" id="bpmn-22786914-55e1-4520-9179-2fe0a0d217eb"/>
+        <sequenceFlow sourceRef="bpmn-a9e68b29-e0ff-460f-ba14-0ef34f8c1926" targetRef="bpmn-8c238ba3-c554-41aa-aabe-45b0150974d3" id="bpmn-442531d8-ef85-4587-946c-427dbcff784f"/>
+        <startEvent name="Start" id="bpmn-91044847-689b-49b0-808f-b8b42129f455"/>
+        <task name="New Client Onboarding Request" id="bpmn-c22580ba-e48d-4c1c-b78a-de24b35290eb">
             <extensionElements>
                 <ns2:bpmAttributes>
                     <ns2:properties>
-                        <ns2:property id="bpmn-f497361d-29b6-44e7-a1c0-c23c0dcae800">
+                        <ns2:property id="bpmn-edbcfe10-fce9-4ef2-ac04-6f1eb509d889">
                             <ns2:propertyName>cycleTime</ns2:propertyName>
                             <ns2:cycleTime>
 <ns2:value>25</ns2:value>
 <ns2:unit>Minutes</ns2:unit>
                             </ns2:cycleTime>
                         </ns2:property>
-                        <ns2:property id="bpmn-ad4389fd-3ef6-46e0-bbc0-2c5809eb1730">
+                        <ns2:property id="bpmn-2d258ce7-2b34-4848-89a2-45fb01278a01">
                             <ns2:propertyName>workTime</ns2:propertyName>
                             <ns2:workTime>
 <ns2:value>20</ns2:value>
 <ns2:unit>Minutes</ns2:unit>
                             </ns2:workTime>
                         </ns2:property>
-                        <ns2:property id="bpmn-1aef88bf-88be-402d-9022-46113217e076">
+                        <ns2:property id="bpmn-4ab21b97-154e-4dff-aa3f-fc06921b08c7">
                             <ns2:propertyName>waitTime</ns2:propertyName>
                             <ns2:waitTime>
 <ns2:value>5</ns2:value>
@@ -61,26 +79,29 @@
                     </ns2:properties>
                 </ns2:bpmAttributes>
             </extensionElements>
+            <performer name="Sales">
+                <resourceRef xmlns:res="http://www.ibm.com/WebSphere/bpm/BlueworksLive/Resources">res:bpmn-7f0deb79-ea36-4a1b-8640-73f930d5649d</resourceRef>
+            </performer>
         </task>
-        <task name="Review Documents" id="bpmn-7c360b62-c2dd-4ff4-a5bc-76c1dae4e59b">
+        <task name="Review Documents" id="bpmn-7c601c2e-4992-4bb4-b000-a390191964b0">
             <extensionElements>
                 <ns2:bpmAttributes>
                     <ns2:properties>
-                        <ns2:property id="bpmn-e1aa3e6b-8794-4ebd-b257-22e89ebf5d88">
+                        <ns2:property id="bpmn-51501b82-69b1-41b3-a4f4-d54987fc0949">
                             <ns2:propertyName>cycleTime</ns2:propertyName>
                             <ns2:cycleTime>
 <ns2:value>20</ns2:value>
 <ns2:unit>Minutes</ns2:unit>
                             </ns2:cycleTime>
                         </ns2:property>
-                        <ns2:property id="bpmn-07524576-8960-426d-8af0-affab7cd89c8">
+                        <ns2:property id="bpmn-ac3ee5e2-6762-486b-9450-a74e32fbc27d">
                             <ns2:propertyName>workTime</ns2:propertyName>
                             <ns2:workTime>
 <ns2:value>15</ns2:value>
 <ns2:unit>Minutes</ns2:unit>
                             </ns2:workTime>
                         </ns2:property>
-                        <ns2:property id="bpmn-ebcabb69-edc0-4d06-b129-5d284491da2f">
+                        <ns2:property id="bpmn-b5369fc3-dabd-4938-af4b-aa839e797425">
                             <ns2:propertyName>waitTime</ns2:propertyName>
                             <ns2:waitTime>
 <ns2:value>5</ns2:value>
@@ -90,26 +111,29 @@
                     </ns2:properties>
                 </ns2:bpmAttributes>
             </extensionElements>
+            <performer name="Operations">
+                <resourceRef xmlns:res="http://www.ibm.com/WebSphere/bpm/BlueworksLive/Resources">res:bpmn-224e478c-bf1d-4b60-9ece-4e7dac1ead49</resourceRef>
+            </performer>
         </task>
-        <task name="Automated Scoreboarding" id="bpmn-c25afc49-0efe-4d39-9975-cd97ba75d709">
+        <task name="Automated Scoreboarding" id="bpmn-d1a5a4db-f1a3-4c5b-bffe-307d2dc13547">
             <extensionElements>
                 <ns2:bpmAttributes>
                     <ns2:properties>
-                        <ns2:property id="bpmn-6d791c46-d4a2-4ee4-91c8-58049e816eea">
+                        <ns2:property id="bpmn-3d4d17b7-0585-4dc6-9ec8-92444fdf5e0c">
                             <ns2:propertyName>cycleTime</ns2:propertyName>
                             <ns2:cycleTime>
 <ns2:value>2</ns2:value>
 <ns2:unit>Minutes</ns2:unit>
                             </ns2:cycleTime>
                         </ns2:property>
-                        <ns2:property id="bpmn-6f8bb46e-1126-4c92-b983-55bd2a70aaa3">
+                        <ns2:property id="bpmn-7a51bda9-59cf-4a66-aea6-0296d5579be8">
                             <ns2:propertyName>workTime</ns2:propertyName>
                             <ns2:workTime>
 <ns2:value>1</ns2:value>
 <ns2:unit>Minutes</ns2:unit>
                             </ns2:workTime>
                         </ns2:property>
-                        <ns2:property id="bpmn-f2b32e81-548c-4eb6-b060-4f30333abb0b">
+                        <ns2:property id="bpmn-c4833652-f5c3-44ce-b9ae-42b056752d45">
                             <ns2:propertyName>waitTime</ns2:propertyName>
                             <ns2:waitTime>
 <ns2:value>1</ns2:value>
@@ -119,27 +143,30 @@
                     </ns2:properties>
                 </ns2:bpmAttributes>
             </extensionElements>
+            <performer name="System">
+                <resourceRef xmlns:res="http://www.ibm.com/WebSphere/bpm/BlueworksLive/Resources">res:bpmn-285427e8-f2a0-45f0-b6b7-6571802280c8</resourceRef>
+            </performer>
         </task>
-        <exclusiveGateway gatewayDirection="Diverging" name="Manual Review" id="bpmn-b1a391f7-9a8b-4e09-b8bf-76aabff13400"/>
-        <task name="Manual Scoreboarding" id="bpmn-2ceb022e-32b9-4d1b-8024-37e7b7b39f11">
+        <exclusiveGateway gatewayDirection="Diverging" name="Manual Review" id="bpmn-e6ff2ec6-c03b-4009-a662-5b4e939d22f9"/>
+        <task name="Manual Scoreboarding" id="bpmn-a9e68b29-e0ff-460f-ba14-0ef34f8c1926">
             <extensionElements>
                 <ns2:bpmAttributes>
                     <ns2:properties>
-                        <ns2:property id="bpmn-ffc6c979-fd18-4bbf-a889-c5aa71b82958">
+                        <ns2:property id="bpmn-242c4b75-acbb-4d26-8a37-a74cf6d35f6d">
                             <ns2:propertyName>cycleTime</ns2:propertyName>
                             <ns2:cycleTime>
 <ns2:value>60</ns2:value>
 <ns2:unit>Minutes</ns2:unit>
                             </ns2:cycleTime>
                         </ns2:property>
-                        <ns2:property id="bpmn-1bfe7e65-ea2f-4214-97ef-95fa65fa3767">
+                        <ns2:property id="bpmn-5174e209-2860-4517-b4c2-a4e6365eacf9">
                             <ns2:propertyName>workTime</ns2:propertyName>
                             <ns2:workTime>
 <ns2:value>30</ns2:value>
 <ns2:unit>Minutes</ns2:unit>
                             </ns2:workTime>
                         </ns2:property>
-                        <ns2:property id="bpmn-4a70d212-0ab9-428c-a1b8-1fffb584e2be">
+                        <ns2:property id="bpmn-6adb3a77-dc71-4883-a533-e2fc7ffb2fac">
                             <ns2:propertyName>waitTime</ns2:propertyName>
                             <ns2:waitTime>
 <ns2:value>30</ns2:value>
@@ -149,26 +176,29 @@
                     </ns2:properties>
                 </ns2:bpmAttributes>
             </extensionElements>
+            <performer name="Risk">
+                <resourceRef xmlns:res="http://www.ibm.com/WebSphere/bpm/BlueworksLive/Resources">res:bpmn-3eee2a1e-42b4-45cc-af2c-b43161fe5b97</resourceRef>
+            </performer>
         </task>
-        <task name="Update Backend Systems" id="bpmn-c85bf7c3-9105-4762-a46e-0399c5713613">
+        <task name="Update Backend Systems" id="bpmn-8c238ba3-c554-41aa-aabe-45b0150974d3">
             <extensionElements>
                 <ns2:bpmAttributes>
                     <ns2:properties>
-                        <ns2:property id="bpmn-4c905497-ec4c-49fb-9732-5bb4673c882a">
+                        <ns2:property id="bpmn-6326659b-7e4e-49de-a454-124f7e1d31e6">
                             <ns2:propertyName>cycleTime</ns2:propertyName>
                             <ns2:cycleTime>
 <ns2:value>2</ns2:value>
 <ns2:unit>Minutes</ns2:unit>
                             </ns2:cycleTime>
                         </ns2:property>
-                        <ns2:property id="bpmn-c8b8e6c5-166b-4ab2-a0bf-c7f556646a36">
+                        <ns2:property id="bpmn-63279f76-71dd-4cb9-acdb-b407157791f3">
                             <ns2:propertyName>workTime</ns2:propertyName>
                             <ns2:workTime>
 <ns2:value>1</ns2:value>
 <ns2:unit>Minutes</ns2:unit>
                             </ns2:workTime>
                         </ns2:property>
-                        <ns2:property id="bpmn-bf92756c-7e0d-408b-a489-34c3c0536498">
+                        <ns2:property id="bpmn-43bbe0ba-c32c-44f3-89d6-d70316fb6097">
                             <ns2:propertyName>waitTime</ns2:propertyName>
                             <ns2:waitTime>
 <ns2:value>1</ns2:value>
@@ -178,26 +208,29 @@
                     </ns2:properties>
                 </ns2:bpmAttributes>
             </extensionElements>
+            <performer name="System">
+                <resourceRef xmlns:res="http://www.ibm.com/WebSphere/bpm/BlueworksLive/Resources">res:bpmn-285427e8-f2a0-45f0-b6b7-6571802280c8</resourceRef>
+            </performer>
         </task>
-        <task name="Notification Review Request Completed" id="bpmn-516a8edd-b531-410a-9ba1-b6870f9c1301">
+        <task name="Notification Review Request Completed" id="bpmn-ab7d0277-a288-4078-b464-a1d2efa5d30a">
             <extensionElements>
                 <ns2:bpmAttributes>
                     <ns2:properties>
-                        <ns2:property id="bpmn-e36367c6-7bdb-423e-b142-279c7475b5fc">
+                        <ns2:property id="bpmn-4f858738-a1cd-4085-8a13-31d2db662405">
                             <ns2:propertyName>cycleTime</ns2:propertyName>
                             <ns2:cycleTime>
 <ns2:value>2</ns2:value>
 <ns2:unit>Minutes</ns2:unit>
                             </ns2:cycleTime>
                         </ns2:property>
-                        <ns2:property id="bpmn-3b23739e-3f52-42e1-bf72-c7f6bf5158cd">
+                        <ns2:property id="bpmn-54d9487b-9887-49b5-8fbf-d285fd5bd607">
                             <ns2:propertyName>workTime</ns2:propertyName>
                             <ns2:workTime>
 <ns2:value>1</ns2:value>
 <ns2:unit>Minutes</ns2:unit>
                             </ns2:workTime>
                         </ns2:property>
-                        <ns2:property id="bpmn-9c1cd20d-4756-4b1a-a598-a8ad46eb7dd5">
+                        <ns2:property id="bpmn-ad58d5b8-4da0-4932-b611-167202b5f348">
                             <ns2:propertyName>waitTime</ns2:propertyName>
                             <ns2:waitTime>
 <ns2:value>1</ns2:value>
@@ -207,95 +240,110 @@
                     </ns2:properties>
                 </ns2:bpmAttributes>
             </extensionElements>
+            <performer name="System">
+                <resourceRef xmlns:res="http://www.ibm.com/WebSphere/bpm/BlueworksLive/Resources">res:bpmn-285427e8-f2a0-45f0-b6b7-6571802280c8</resourceRef>
+            </performer>
         </task>
-        <endEvent name="End" id="bpmn-3c876a13-e6fe-43ae-93a1-043c8c115832"/>
+        <endEvent name="End" id="bpmn-c7f459b7-1c1c-422a-b05a-a7dd788b60df"/>
     </process>
-    <ns6:BPMNDiagram id="bpmn-ccac4042-ffd7-412b-95ff-fc1740470aad">
-        <ns6:BPMNPlane xmlns:ns7="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns="" bpmnElement="bpmn-388703f3-b197-4c63-bda3-e4268fd42b74">
-            <ns6:BPMNShape bpmnElement="bpmn-1ce441c8-1e9a-4b7f-a2de-2313cc90e1c8" isHorizontal="false" isExpanded="false">
-                <ns5:Bounds x="0.0" y="0.0" width="880.0" height="216.0"/>
-                <ns6:BPMNLabel xmlns:ns9="http://www.ibm.com/WebSphere/bpm/BlueworksLive/d2ecdd3b4e-cedc4582c" labelStyle="ns9:bpmn-cc69366d-df58-4c57-81bc-e025326bbffb"/>
+    <ns6:BPMNDiagram id="bpmn-4474c7b3-b002-4eaa-8d0e-78ad7c941572">
+        <ns6:BPMNPlane xmlns:ns7="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns="" bpmnElement="bpmn-afc25f54-144d-4f11-ad6b-f2ba551060a4">
+            <ns6:BPMNShape bpmnElement="bpmn-de383244-079d-45b9-8ff4-f421b8b99c41" isHorizontal="false" isExpanded="false">
+                <ns5:Bounds x="0.0" y="0.0" width="624.0" height="360.0"/>
+                <ns6:BPMNLabel xmlns:ns9="http://www.ibm.com/WebSphere/bpm/BlueworksLive/d2ecdd3b4e-cedc4582c" labelStyle="ns9:bpmn-4c1d965b-22ae-49b3-9680-ca6637e04e0d"/>
             </ns6:BPMNShape>
-            <ns6:BPMNShape bpmnElement="bpmn-24142c73-ee9e-47f0-baf6-d795399a710a" isHorizontal="true" isExpanded="false">
-                <ns5:Bounds x="48.0" y="48.0" width="880.0" height="216.0"/>
-                <ns6:BPMNLabel xmlns:ns9="http://www.ibm.com/WebSphere/bpm/BlueworksLive/d2ecdd3b4e-cedc4582c" labelStyle="ns9:bpmn-cc69366d-df58-4c57-81bc-e025326bbffb"/>
+            <ns6:BPMNShape bpmnElement="bpmn-7f0deb79-ea36-4a1b-8640-73f930d5649d" isHorizontal="true" isExpanded="false">
+                <ns5:Bounds x="48.0" y="48.0" width="624.0" height="88.0"/>
+                <ns6:BPMNLabel xmlns:ns9="http://www.ibm.com/WebSphere/bpm/BlueworksLive/d2ecdd3b4e-cedc4582c" labelStyle="ns9:bpmn-4c1d965b-22ae-49b3-9680-ca6637e04e0d"/>
             </ns6:BPMNShape>
-            <ns6:BPMNEdge bpmnElement="bpmn-81a99730-719f-40f9-a4c0-7ae1bc692702" sourceElement="bpmn-75b05b0e-a76e-445e-b436-2330efe81750" targetElement="bpmn-de385f99-a352-468e-9c1d-2bf3d13c1310">
+            <ns6:BPMNShape bpmnElement="bpmn-224e478c-bf1d-4b60-9ece-4e7dac1ead49" isHorizontal="true" isExpanded="false">
+                <ns5:Bounds x="48.0" y="136.0" width="624.0" height="88.0"/>
+                <ns6:BPMNLabel xmlns:ns9="http://www.ibm.com/WebSphere/bpm/BlueworksLive/d2ecdd3b4e-cedc4582c" labelStyle="ns9:bpmn-4c1d965b-22ae-49b3-9680-ca6637e04e0d"/>
+            </ns6:BPMNShape>
+            <ns6:BPMNShape bpmnElement="bpmn-3eee2a1e-42b4-45cc-af2c-b43161fe5b97" isHorizontal="true" isExpanded="false">
+                <ns5:Bounds x="48.0" y="224.0" width="624.0" height="96.0"/>
+                <ns6:BPMNLabel xmlns:ns9="http://www.ibm.com/WebSphere/bpm/BlueworksLive/d2ecdd3b4e-cedc4582c" labelStyle="ns9:bpmn-4c1d965b-22ae-49b3-9680-ca6637e04e0d"/>
+            </ns6:BPMNShape>
+            <ns6:BPMNShape bpmnElement="bpmn-285427e8-f2a0-45f0-b6b7-6571802280c8" isHorizontal="true" isExpanded="false">
+                <ns5:Bounds x="48.0" y="320.0" width="624.0" height="88.0"/>
+                <ns6:BPMNLabel xmlns:ns9="http://www.ibm.com/WebSphere/bpm/BlueworksLive/d2ecdd3b4e-cedc4582c" labelStyle="ns9:bpmn-4c1d965b-22ae-49b3-9680-ca6637e04e0d"/>
+            </ns6:BPMNShape>
+            <ns6:BPMNEdge bpmnElement="bpmn-d4bac107-4e2e-41ca-ac67-ed0fc2f24926" sourceElement="bpmn-91044847-689b-49b0-808f-b8b42129f455" targetElement="bpmn-c22580ba-e48d-4c1c-b78a-de24b35290eb">
                 <ns4:waypoint x="88.0" y="88.0"/>
                 <ns4:waypoint x="120.0" y="88.0"/>
             </ns6:BPMNEdge>
-            <ns6:BPMNEdge bpmnElement="bpmn-b61010ac-a28c-4bf7-936d-5d6c0bd185bb" sourceElement="bpmn-de385f99-a352-468e-9c1d-2bf3d13c1310" targetElement="bpmn-7c360b62-c2dd-4ff4-a5bc-76c1dae4e59b">
-                <ns4:waypoint x="216.0" y="88.0"/>
-                <ns4:waypoint x="248.0" y="88.0"/>
+            <ns6:BPMNEdge bpmnElement="bpmn-22983f84-b121-43b0-ba35-4aeff0a65079" sourceElement="bpmn-c22580ba-e48d-4c1c-b78a-de24b35290eb" targetElement="bpmn-7c601c2e-4992-4bb4-b000-a390191964b0">
+                <ns4:waypoint x="168.0" y="120.0"/>
+                <ns4:waypoint x="168.0" y="152.0"/>
             </ns6:BPMNEdge>
-            <ns6:BPMNEdge bpmnElement="bpmn-22c225fb-17bb-4f25-abc6-4297332ad6d7" sourceElement="bpmn-7c360b62-c2dd-4ff4-a5bc-76c1dae4e59b" targetElement="bpmn-c25afc49-0efe-4d39-9975-cd97ba75d709">
-                <ns4:waypoint x="344.0" y="88.0"/>
-                <ns4:waypoint x="376.0" y="88.0"/>
+            <ns6:BPMNEdge bpmnElement="bpmn-da598e6d-58cd-406e-90f2-48c8f36b618b" sourceElement="bpmn-7c601c2e-4992-4bb4-b000-a390191964b0" targetElement="bpmn-d1a5a4db-f1a3-4c5b-bffe-307d2dc13547">
+                <ns4:waypoint x="168.0" y="208.0"/>
+                <ns4:waypoint x="168.0" y="336.0"/>
             </ns6:BPMNEdge>
-            <ns6:BPMNEdge bpmnElement="bpmn-1895525c-f4bd-4c90-914b-a149842eae61" sourceElement="bpmn-c25afc49-0efe-4d39-9975-cd97ba75d709" targetElement="bpmn-b1a391f7-9a8b-4e09-b8bf-76aabff13400">
-                <ns4:waypoint x="472.0" y="88.0"/>
-                <ns4:waypoint x="536.0" y="88.0"/>
+            <ns6:BPMNEdge bpmnElement="bpmn-3b1be76a-6f21-45b8-8c21-e5566c6abaeb" sourceElement="bpmn-d1a5a4db-f1a3-4c5b-bffe-307d2dc13547" targetElement="bpmn-e6ff2ec6-c03b-4009-a662-5b4e939d22f9">
+                <ns4:waypoint x="216.0" y="360.0"/>
+                <ns4:waypoint x="280.0" y="360.0"/>
             </ns6:BPMNEdge>
-            <ns6:BPMNEdge bpmnElement="bpmn-9044e76e-ab0f-4282-bf87-228f2c4941d4" sourceElement="bpmn-b1a391f7-9a8b-4e09-b8bf-76aabff13400" targetElement="bpmn-2ceb022e-32b9-4d1b-8024-37e7b7b39f11">
-                <ns4:waypoint x="552.0" y="104.0"/>
-                <ns4:waypoint x="552.0" y="192.0"/>
-                <ns6:BPMNLabel xmlns:ns9="http://www.ibm.com/WebSphere/bpm/BlueworksLive/d2ecdd3b4e-cedc4582c" labelStyle="ns9:bpmn-cc69366d-df58-4c57-81bc-e025326bbffb"/>
+            <ns6:BPMNEdge bpmnElement="bpmn-a1bfd6a9-6724-48fb-ab15-50eec08311ed" sourceElement="bpmn-e6ff2ec6-c03b-4009-a662-5b4e939d22f9" targetElement="bpmn-a9e68b29-e0ff-460f-ba14-0ef34f8c1926">
+                <ns4:waypoint x="296.0" y="344.0"/>
+                <ns4:waypoint x="296.0" y="296.0"/>
+                <ns6:BPMNLabel xmlns:ns9="http://www.ibm.com/WebSphere/bpm/BlueworksLive/d2ecdd3b4e-cedc4582c" labelStyle="ns9:bpmn-4c1d965b-22ae-49b3-9680-ca6637e04e0d"/>
             </ns6:BPMNEdge>
-            <ns6:BPMNEdge bpmnElement="bpmn-465b5481-fca2-40fc-ab3d-1115657bc706" sourceElement="bpmn-b1a391f7-9a8b-4e09-b8bf-76aabff13400" targetElement="bpmn-c85bf7c3-9105-4762-a46e-0399c5713613">
-                <ns4:waypoint x="568.0" y="88.0"/>
-                <ns4:waypoint x="680.0" y="88.0"/>
-                <ns4:waypoint x="680.0" y="192.0"/>
+            <ns6:BPMNEdge bpmnElement="bpmn-aeaac2bc-62da-435e-9bea-1fc497394a66" sourceElement="bpmn-e6ff2ec6-c03b-4009-a662-5b4e939d22f9" targetElement="bpmn-8c238ba3-c554-41aa-aabe-45b0150974d3">
+                <ns4:waypoint x="312.0" y="360.0"/>
+                <ns4:waypoint x="376.0" y="360.0"/>
             </ns6:BPMNEdge>
-            <ns6:BPMNEdge bpmnElement="bpmn-f7cab537-246f-4367-aa01-e1168f4aa087" sourceElement="bpmn-c85bf7c3-9105-4762-a46e-0399c5713613" targetElement="bpmn-516a8edd-b531-410a-9ba1-b6870f9c1301">
-                <ns4:waypoint x="728.0" y="216.0"/>
-                <ns4:waypoint x="760.0" y="216.0"/>
+            <ns6:BPMNEdge bpmnElement="bpmn-4803b68b-742c-454b-8502-39206391a95b" sourceElement="bpmn-8c238ba3-c554-41aa-aabe-45b0150974d3" targetElement="bpmn-ab7d0277-a288-4078-b464-a1d2efa5d30a">
+                <ns4:waypoint x="472.0" y="360.0"/>
+                <ns4:waypoint x="504.0" y="360.0"/>
             </ns6:BPMNEdge>
-            <ns6:BPMNEdge bpmnElement="bpmn-bcd2e26e-aee9-4d31-b7f2-20dae01611d4" sourceElement="bpmn-516a8edd-b531-410a-9ba1-b6870f9c1301" targetElement="bpmn-3c876a13-e6fe-43ae-93a1-043c8c115832">
-                <ns4:waypoint x="856.0" y="216.0"/>
-                <ns4:waypoint x="888.0" y="216.0"/>
+            <ns6:BPMNEdge bpmnElement="bpmn-22786914-55e1-4520-9179-2fe0a0d217eb" sourceElement="bpmn-ab7d0277-a288-4078-b464-a1d2efa5d30a" targetElement="bpmn-c7f459b7-1c1c-422a-b05a-a7dd788b60df">
+                <ns4:waypoint x="600.0" y="360.0"/>
+                <ns4:waypoint x="632.0" y="360.0"/>
             </ns6:BPMNEdge>
-            <ns6:BPMNEdge bpmnElement="bpmn-0d0cf188-ab5c-4e5c-b34f-8d6a5e534e3c" sourceElement="bpmn-2ceb022e-32b9-4d1b-8024-37e7b7b39f11" targetElement="bpmn-c85bf7c3-9105-4762-a46e-0399c5713613">
-                <ns4:waypoint x="600.0" y="216.0"/>
-                <ns4:waypoint x="632.0" y="216.0"/>
+            <ns6:BPMNEdge bpmnElement="bpmn-442531d8-ef85-4587-946c-427dbcff784f" sourceElement="bpmn-a9e68b29-e0ff-460f-ba14-0ef34f8c1926" targetElement="bpmn-8c238ba3-c554-41aa-aabe-45b0150974d3">
+                <ns4:waypoint x="344.0" y="264.0"/>
+                <ns4:waypoint x="424.0" y="264.0"/>
+                <ns4:waypoint x="424.0" y="336.0"/>
             </ns6:BPMNEdge>
-            <ns6:BPMNShape bpmnElement="bpmn-75b05b0e-a76e-445e-b436-2330efe81750" isHorizontal="false" isExpanded="false">
+            <ns6:BPMNShape bpmnElement="bpmn-91044847-689b-49b0-808f-b8b42129f455" isHorizontal="false" isExpanded="false">
                 <ns5:Bounds x="68.0" y="80.0" width="24.0" height="24.0"/>
-                <ns6:BPMNLabel xmlns:ns9="http://www.ibm.com/WebSphere/bpm/BlueworksLive/d2ecdd3b4e-cedc4582c" labelStyle="ns9:bpmn-cc69366d-df58-4c57-81bc-e025326bbffb"/>
+                <ns6:BPMNLabel xmlns:ns9="http://www.ibm.com/WebSphere/bpm/BlueworksLive/d2ecdd3b4e-cedc4582c" labelStyle="ns9:bpmn-4c1d965b-22ae-49b3-9680-ca6637e04e0d"/>
             </ns6:BPMNShape>
-            <ns6:BPMNShape bpmnElement="bpmn-de385f99-a352-468e-9c1d-2bf3d13c1310" isHorizontal="false" isExpanded="false">
+            <ns6:BPMNShape bpmnElement="bpmn-c22580ba-e48d-4c1c-b78a-de24b35290eb" isHorizontal="false" isExpanded="false">
                 <ns5:Bounds x="120.0" y="64.0" width="96.0" height="56.0"/>
-                <ns6:BPMNLabel xmlns:ns9="http://www.ibm.com/WebSphere/bpm/BlueworksLive/d2ecdd3b4e-cedc4582c" labelStyle="ns9:bpmn-cc69366d-df58-4c57-81bc-e025326bbffb"/>
+                <ns6:BPMNLabel xmlns:ns9="http://www.ibm.com/WebSphere/bpm/BlueworksLive/d2ecdd3b4e-cedc4582c" labelStyle="ns9:bpmn-4c1d965b-22ae-49b3-9680-ca6637e04e0d"/>
             </ns6:BPMNShape>
-            <ns6:BPMNShape bpmnElement="bpmn-7c360b62-c2dd-4ff4-a5bc-76c1dae4e59b" isHorizontal="false" isExpanded="false">
-                <ns5:Bounds x="248.0" y="64.0" width="96.0" height="56.0"/>
-                <ns6:BPMNLabel xmlns:ns9="http://www.ibm.com/WebSphere/bpm/BlueworksLive/d2ecdd3b4e-cedc4582c" labelStyle="ns9:bpmn-cc69366d-df58-4c57-81bc-e025326bbffb"/>
+            <ns6:BPMNShape bpmnElement="bpmn-7c601c2e-4992-4bb4-b000-a390191964b0" isHorizontal="false" isExpanded="false">
+                <ns5:Bounds x="120.0" y="152.0" width="96.0" height="56.0"/>
+                <ns6:BPMNLabel xmlns:ns9="http://www.ibm.com/WebSphere/bpm/BlueworksLive/d2ecdd3b4e-cedc4582c" labelStyle="ns9:bpmn-4c1d965b-22ae-49b3-9680-ca6637e04e0d"/>
             </ns6:BPMNShape>
-            <ns6:BPMNShape bpmnElement="bpmn-c25afc49-0efe-4d39-9975-cd97ba75d709" isHorizontal="false" isExpanded="false">
-                <ns5:Bounds x="376.0" y="64.0" width="96.0" height="56.0"/>
-                <ns6:BPMNLabel xmlns:ns9="http://www.ibm.com/WebSphere/bpm/BlueworksLive/d2ecdd3b4e-cedc4582c" labelStyle="ns9:bpmn-cc69366d-df58-4c57-81bc-e025326bbffb"/>
+            <ns6:BPMNShape bpmnElement="bpmn-d1a5a4db-f1a3-4c5b-bffe-307d2dc13547" isHorizontal="false" isExpanded="false">
+                <ns5:Bounds x="120.0" y="336.0" width="96.0" height="56.0"/>
+                <ns6:BPMNLabel xmlns:ns9="http://www.ibm.com/WebSphere/bpm/BlueworksLive/d2ecdd3b4e-cedc4582c" labelStyle="ns9:bpmn-4c1d965b-22ae-49b3-9680-ca6637e04e0d"/>
             </ns6:BPMNShape>
-            <ns6:BPMNShape bpmnElement="bpmn-b1a391f7-9a8b-4e09-b8bf-76aabff13400" isHorizontal="false" isExpanded="false">
-                <ns5:Bounds x="528.0" y="66.0" width="32.0" height="32.0"/>
-                <ns6:BPMNLabel xmlns:ns9="http://www.ibm.com/WebSphere/bpm/BlueworksLive/d2ecdd3b4e-cedc4582c" labelStyle="ns9:bpmn-cc69366d-df58-4c57-81bc-e025326bbffb"/>
+            <ns6:BPMNShape bpmnElement="bpmn-e6ff2ec6-c03b-4009-a662-5b4e939d22f9" isHorizontal="false" isExpanded="false">
+                <ns5:Bounds x="272.0" y="338.0" width="32.0" height="32.0"/>
+                <ns6:BPMNLabel xmlns:ns9="http://www.ibm.com/WebSphere/bpm/BlueworksLive/d2ecdd3b4e-cedc4582c" labelStyle="ns9:bpmn-4c1d965b-22ae-49b3-9680-ca6637e04e0d"/>
             </ns6:BPMNShape>
-            <ns6:BPMNShape bpmnElement="bpmn-2ceb022e-32b9-4d1b-8024-37e7b7b39f11" isHorizontal="false" isExpanded="false">
-                <ns5:Bounds x="504.0" y="192.0" width="96.0" height="56.0"/>
-                <ns6:BPMNLabel xmlns:ns9="http://www.ibm.com/WebSphere/bpm/BlueworksLive/d2ecdd3b4e-cedc4582c" labelStyle="ns9:bpmn-cc69366d-df58-4c57-81bc-e025326bbffb"/>
+            <ns6:BPMNShape bpmnElement="bpmn-a9e68b29-e0ff-460f-ba14-0ef34f8c1926" isHorizontal="false" isExpanded="false">
+                <ns5:Bounds x="248.0" y="240.0" width="96.0" height="56.0"/>
+                <ns6:BPMNLabel xmlns:ns9="http://www.ibm.com/WebSphere/bpm/BlueworksLive/d2ecdd3b4e-cedc4582c" labelStyle="ns9:bpmn-4c1d965b-22ae-49b3-9680-ca6637e04e0d"/>
             </ns6:BPMNShape>
-            <ns6:BPMNShape bpmnElement="bpmn-c85bf7c3-9105-4762-a46e-0399c5713613" isHorizontal="false" isExpanded="false">
-                <ns5:Bounds x="632.0" y="192.0" width="96.0" height="56.0"/>
-                <ns6:BPMNLabel xmlns:ns9="http://www.ibm.com/WebSphere/bpm/BlueworksLive/d2ecdd3b4e-cedc4582c" labelStyle="ns9:bpmn-cc69366d-df58-4c57-81bc-e025326bbffb"/>
+            <ns6:BPMNShape bpmnElement="bpmn-8c238ba3-c554-41aa-aabe-45b0150974d3" isHorizontal="false" isExpanded="false">
+                <ns5:Bounds x="376.0" y="336.0" width="96.0" height="56.0"/>
+                <ns6:BPMNLabel xmlns:ns9="http://www.ibm.com/WebSphere/bpm/BlueworksLive/d2ecdd3b4e-cedc4582c" labelStyle="ns9:bpmn-4c1d965b-22ae-49b3-9680-ca6637e04e0d"/>
             </ns6:BPMNShape>
-            <ns6:BPMNShape bpmnElement="bpmn-516a8edd-b531-410a-9ba1-b6870f9c1301" isHorizontal="false" isExpanded="false">
-                <ns5:Bounds x="760.0" y="192.0" width="96.0" height="56.0"/>
-                <ns6:BPMNLabel xmlns:ns9="http://www.ibm.com/WebSphere/bpm/BlueworksLive/d2ecdd3b4e-cedc4582c" labelStyle="ns9:bpmn-cc69366d-df58-4c57-81bc-e025326bbffb"/>
+            <ns6:BPMNShape bpmnElement="bpmn-ab7d0277-a288-4078-b464-a1d2efa5d30a" isHorizontal="false" isExpanded="false">
+                <ns5:Bounds x="504.0" y="336.0" width="96.0" height="56.0"/>
+                <ns6:BPMNLabel xmlns:ns9="http://www.ibm.com/WebSphere/bpm/BlueworksLive/d2ecdd3b4e-cedc4582c" labelStyle="ns9:bpmn-4c1d965b-22ae-49b3-9680-ca6637e04e0d"/>
             </ns6:BPMNShape>
-            <ns6:BPMNShape bpmnElement="bpmn-3c876a13-e6fe-43ae-93a1-043c8c115832" isHorizontal="false" isExpanded="false">
-                <ns5:Bounds x="892.0" y="208.0" width="24.0" height="24.0"/>
-                <ns6:BPMNLabel xmlns:ns9="http://www.ibm.com/WebSphere/bpm/BlueworksLive/d2ecdd3b4e-cedc4582c" labelStyle="ns9:bpmn-cc69366d-df58-4c57-81bc-e025326bbffb"/>
+            <ns6:BPMNShape bpmnElement="bpmn-c7f459b7-1c1c-422a-b05a-a7dd788b60df" isHorizontal="false" isExpanded="false">
+                <ns5:Bounds x="636.0" y="352.0" width="24.0" height="24.0"/>
+                <ns6:BPMNLabel xmlns:ns9="http://www.ibm.com/WebSphere/bpm/BlueworksLive/d2ecdd3b4e-cedc4582c" labelStyle="ns9:bpmn-4c1d965b-22ae-49b3-9680-ca6637e04e0d"/>
             </ns6:BPMNShape>
         </ns6:BPMNPlane>
-        <ns6:BPMNLabelStyle id="{http://www.ibm.com/WebSphere/bpm/BlueworksLive/d2ecdd3b4e-cedc4582c}bpmn-cc69366d-df58-4c57-81bc-e025326bbffb">
+        <ns6:BPMNLabelStyle id="{http://www.ibm.com/WebSphere/bpm/BlueworksLive/d2ecdd3b4e-cedc4582c}bpmn-4c1d965b-22ae-49b3-9680-ca6637e04e0d">
             <ns5:Font name="HelveticaNeue-Light" size="10.0"/>
         </ns6:BPMNLabelStyle>
     </ns6:BPMNDiagram>
